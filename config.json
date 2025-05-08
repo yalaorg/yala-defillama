@@ -7,6 +7,10 @@
   ],
   "ethereum": {
     "YBTC": "0x27A70B9F8073efE5A02998D5Cc64aCdc9e0Ba589",
-    "YU": "0xE868084cf08F3c3db11f4B73a95473762d9463f7"
+    "YU": "0xE868084cf08F3c3db11f4B73a95473762d9463f7",
+    "PSM": {
+      "addresses": ["0x0b4e03ECb66be6774c216EA9ecA3663A85eE41fd"],
+      "tokens": ["0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"]
+    }
   }
 }
