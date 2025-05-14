@@ -12,5 +12,8 @@
       "addresses": ["0x0b4e03ECb66be6774c216EA9ecA3663A85eE41fd"],
       "tokens": ["0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"]
     }
+  },
+  "solana": {
+    "YU": "YUYAiJo8KVbnc6Fb6h3MnH2VGND4uGWDH4iLnw7DLEu"
   }
 }
