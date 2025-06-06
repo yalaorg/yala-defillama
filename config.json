@@ -17,7 +17,8 @@
         "address": "0xCdFb58c8C859Cb3F62ebe9Cf2767F9e036C7fb15",
         "wrapper": "0xD5d027108264000F3670a623dceb8d14Ecfc21b9",
         "oracle": "0xe0d290eBA865A6CA14c1C9bFD9CD839FA8d54543",
-        "decimals": 8
+        "decimalsWrapper": 8,
+        "decimalsOracle": 8
       }
     }
   },
