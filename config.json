@@ -11,6 +11,14 @@
     "PSM": {
       "addresses": ["0x0b4e03ECb66be6774c216EA9ecA3663A85eE41fd"],
       "tokens": ["0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"]
+    },
+    "AssetWrapper": {
+      "bfBTC": {
+        "address": "0xCdFb58c8C859Cb3F62ebe9Cf2767F9e036C7fb15",
+        "wrapper": "0xD5d027108264000F3670a623dceb8d14Ecfc21b9",
+        "oracle": "0xe0d290eBA865A6CA14c1C9bFD9CD839FA8d54543",
+        "decimals": 8
+      }
     }
   },
   "solana": {
