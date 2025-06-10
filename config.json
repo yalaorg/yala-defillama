@@ -12,9 +12,8 @@
       "addresses": ["0x0b4e03ECb66be6774c216EA9ecA3663A85eE41fd"],
       "tokens": ["0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"]
     },
-    "TroveManager": {
-      "addresses": ["0xcF12293acDB2CBF4485eabB1105403683C000036"],
-      "assetWrapper": ["0xD5d027108264000F3670a623dceb8d14Ecfc21b9"],
+    "AssetWrapper": {
+      "addresses": ["0xD5d027108264000F3670a623dceb8d14Ecfc21b9"],
       "tokens": ["0xCdFb58c8C859Cb3F62ebe9Cf2767F9e036C7fb15"],
       "symbol": ["bfBTC"]
     }
