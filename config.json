@@ -18,7 +18,10 @@
       "addresses": ["0xD5d027108264000F3670a623dceb8d14Ecfc21b9"],
       "tokens": ["0xCdFb58c8C859Cb3F62ebe9Cf2767F9e036C7fb15"],
       "symbol": ["bfBTC"]
-    }
+    },
+    "Factory": "0xca61a7BE20D361B21C0ad7FA61e241c56202e66c",
+    "StabilityPool": "0x9593807414124328e9033756309a985799b1e7fe",
+    "FeeReceivers": ["0xc66f3dfb957F63E4A478748853d72863666954aC"]
   },
   "solana": {
     "YU": "YUYAiJo8KVbnc6Fb6h3MnH2VGND4uGWDH4iLnw7DLEu"
